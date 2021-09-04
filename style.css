@@ -1,0 +1,23 @@
+
+
+.first{
+    color: #FA804C;
+    
+}
+.second{
+    color:  rgb(36, 36, 37);
+}
+.bg-colour{
+    background-color:#FFF9F4;
+
+}
+.bg-ground{
+    background-color: rgba(0, 0, 0, 0.15);
+}
+.btn-my{
+    background-color: #3543BC;
+    
+}
+.redius{
+    border-radius: 15px;
+}
